@@ -3,7 +3,7 @@
     $lat = "48.858093";
     $lon = "2.294694";
 // Externe Datei mit API-Key
-    require_once("webcam_key.php");
+    require_once("webcam_key.php"); // Diese Datei ist nur auf Moodle!
 // URL der Daten
     $dataURL = "https://api.windy.com/api/webcams/v2/list/nearby=".$lat.",".$lon.",5?show=webcams:location,image&key=".$keyCam;
 // Liest die gesamte Datei in einen String
