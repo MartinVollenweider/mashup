@@ -1,5 +1,5 @@
 # mashup
 Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 ## Beispiele
-- dog_api: laden ein Hundebildern; auflisten von Hundenamen
-- windy_webcam_api: darstellen von Webcambildern von Paris
+- dog_api: Laden eines Hundebildes; Auflistung von Hundenamen.
+- windy_webcam_api: Darstellen von Webcambildern von Paris. Die notwendige Datei «webcam_key.php» befindet sich auf Moodle.
