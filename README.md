@@ -6,3 +6,5 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 - NASA_api: Darstellen von NASA Fotos vom Mars.
 - chucknorris_api: Auf Knopfdruck wird ein zufälliger Chuck Norris Witz angezeigt.
 - station_api: mit der Eingabe eines Schweizer Bahnhofes wird der nächste Zug angezeigt, der dort abfährt (eher advanced).
+- cocktails_api: Suche von Cocktails und Anzeige der Titel und Zubereitungsart
+- datenSG_api: Suche durch das Opendata Portal der Stadt St.Gallen
