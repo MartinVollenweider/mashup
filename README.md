@@ -10,4 +10,4 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 - datenSG_api: Suche durch das Opendata Portal der Stadt St.Gallen
 
 ## Link zum Webserver
-[Beispiele](537449-30.web1.fh-htwchur.ch)
+[Beispiele](https://537449-30.web1.fh-htwchur.ch)
