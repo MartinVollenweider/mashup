@@ -8,3 +8,6 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 - station_api: mit der Eingabe eines Schweizer Bahnhofes wird der nächste Zug angezeigt, der dort abfährt (eher advanced).
 - cocktails_api: Suche von Cocktails und Anzeige der Titel und Zubereitungsart
 - datenSG_api: Suche durch das Opendata Portal der Stadt St.Gallen
+
+## Link zum Webserver
+[Beispiele](537449-30.web1.fh-htwchur.ch)
