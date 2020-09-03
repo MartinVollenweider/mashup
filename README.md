@@ -1,6 +1,9 @@
 # mashup
 Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 ## Beispiele
+- JavaScript-Objekte: Objekte erstellen und mit einer Funktion im Browserfenster ausgeben.
+- AJAX: Externe Inhalte mittels Buttons austauschen.
+- JSON: Daten laden und interaktiv austauschen.
 - dog_api: Laden eines Hundebildes; Auflistung von Hundenamen.
 - windy_webcam_api: Darstellen von Webcambildern von Paris. Die notwendige Datei «webcam_key.php» befindet sich auf Moodle.
 - NASA_api: Darstellen von NASA Fotos vom Mars.
