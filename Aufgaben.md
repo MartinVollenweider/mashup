@@ -5,6 +5,7 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 1. [RandomCat](https://github.com/public-apis/public-apis). Erstellen Sie eine Website, welche alle 5 Sekunden ein anderes Katzenbild darstellt. Verwenden Sie die API RandomCat.
 2. [RandomFox](https://github.com/public-apis/public-apis). Erstellen Sie eine Website, welche alle 5 Sekunden ein anderes Fuchsbild darstellt. Verwenden Sie die API RandomFox.
 3. [RandomCat und RandomFox](https://github.com/public-apis/public-apis). Erstellen Sie eine Website, welche alle 5 Sekunden ein anderes Katzen- und Fuchsbild darstellt. Verwenden Sie die APIs RandomCat und RandomFox.
+4. [Superhelden](https://superheroapi.com/?ref=apilist.fun#api-references). Erstellen Sie eine Website, auf der man mit einem Textfeld nach einem Superheld suchen kann. Zeigen Sie <b>das erste</b> Resultat mit einem Bild des Superhelden und seinem Namen an. Sie können das folgende Token verwenden, um mit der API zu kommunizieren: <b>2727400457530188</b>
 
 ## 3. Eigenes Mini-Projekt mit AJAX, JSON, API allein oder in Gruppen
 - Bauen Sie eine eigene Website, laden Sie Daten (via API oder Datenbank) dynamisch in die Site.
