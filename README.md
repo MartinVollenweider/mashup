@@ -15,6 +15,7 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 - random_cat: zufälliges Katzenbild (Aufgabe)
 - random_fox: zufälliges Fuchsbild (Aufgabe)
 - random_cat_fox: zufälliges Katzen- und Fuchsbild (Aufgabe)
+- superhelden: nach Superhelden suchen (Aufgabe)
 
 ## Link zum Webserver
 [Beispiele](https://537449-30.web1.fh-htwchur.ch)
