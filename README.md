@@ -16,7 +16,7 @@ Interaktive Medien V: Mashups — dynamisches Web mit AJAX, APIs und JSON
 - random_fox: zufälliges Fuchsbild (Aufgabe)
 - random_cat_fox: zufälliges Katzen- und Fuchsbild (Aufgabe)
 - superhelden: nach Superhelden suchen (Aufgabe)
-- Postleitzahlen: selbstgemachte api zur komfortablen Eingabe der schweizer Postleitzahlen 
+- Postleitzahlen: selbstgemachte api zur komfortablen Eingabe der schweizer Postleitzahlen | YouTube-Tutorial: https://youtu.be/5AxKRXvFQII
 
 ## Link zum Webserver
 [Beispiele](https://537449-30.web1.fh-htwchur.ch)
