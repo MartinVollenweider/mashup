@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PLZ</title>
+
+</head>
+<body>
+
+  <!-- In das Input-Feld kann der Nutzer eine beliebige Zeichenkette eingeben.
+    Um die Eingabe des Nutzers auszuwerten müssen wir mit JavaScript
+    den Wert (value) des Input-Feldes auslesen können, dazu müssen wir das
+    Feld eindeutig identifizieren. Die einfachste Möglichkeit ist auch hier die
+    Vergabe einer id. Unser Input-Feld hat die id="plz__input_field".
+    Das value-Attribut müssen wir im HTML-Code nur schreiben, wenn wir dem
+    Input-Feld bereits einen initialen Wert mitgeben wollen. Im Input-Feld mit
+    dem HTML-Code
+      <input name="xxx" list="plz__datalist" id="plz__input_field" value="7000">
+    wäre bereits beim Laden die Zahl "7000" eingetragen. Wenn wir kein value-Attribut
+    schreiben ist kein Wert im Feld eingetragen. Wenn der Nutzer einen Wert einträgt
+    ergänzt der Browser eigenständig das Input-Element um das value-Attribut,
+    sodass wir es mit JavaScript auslesen können. Dazu müssen wir es nicht in
+    den Quellcode hineinschreiben.
+
+    Für die Auswertung mit JavaScript brauchen wir kein name-Attribut. Ich habe
+    es der Vollständigkeit halber dennoch angegeben, mit dem Wert "xxx".
+
+    Zur einfacheren Nachverfolgung der Daten gehen wir davon aus, dass der
+    Nutzer die drei Postleitzahlziffern "123" eingibt.
+    Per Ajax wollen wir alle Schweizer Postleitzahlen, die mit 123 beginnen
+    in der datalist anzeigen. -->
+  <label>PLZ:
+    <input list="plz__datalist" name="xxx" id="plz__input_field">
+  </label>
+  <label>Ort:
+    <input name="yyy" id="ort__input_field" >
+  </label>
+
+  <!-- Mit HTML 5 wurde das datalist-Element eingeführt. Ein input-Element kann
+    mit einer datalist verbunden werden. Dazu vergeben wir im input-Element ein
+    list-Attribut, das als Wert die id der Datalist enthält.
+          <input list="plz__datalist" name="xxx" id="plz__input_field">
+                        ↓↓↓↓↓↓↓↓↓↓↓
+          <datalist id="plz__datalist" >
+    Weitere Informationen zur datalist:
+      https://www.w3schools.com/tags/tag_datalist.asp   -->
+  <datalist id="plz__datalist" >
+  </datalist>
+
+  <script src="js/script.js"></script>
+
+</body>
+</html>
